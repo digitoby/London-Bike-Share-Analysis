@@ -54,3 +54,8 @@ This is the final dashboard:
 ![Screenshot of dashboard](https://github.com/digitoby/London-Bike-Share-Analysis/blob/main/images/london_bike_dash.png)
 
 The dashboard is interactive, allowing the user to select a time period on the line chart. It automatically updates to show the total number of bike shares and a heatmap. The heatmap captures temperature vs wind speeds and the corresponding bike shares for those conditions.
+
+As you can tell from the moving average line chart, summer is the best season for bike shares and winter is the worst. The heatmap tells us that moderate weather is the condition for higher bike shares. 
+We can then draft two strategies:
+- Prioritize the summer season. A conventional analysis would recommend that the company push more advertisements and resources before and during summer to drive purchases.
+- Prioritize the winter season. As an innovater, I like to think outside the box. Instead of spending more resources when sales are already high, perhaps it's more worthwhile to focus on the winter when sales are lower. For example, putting out different bike models with imrpoved tread for wet/icy ground or converting bike share hubs to be indoors. The summer reveals how high demand can be for bike shares. If companies adjust and make winter bike shares more accessible, they would see more profit year-round.
