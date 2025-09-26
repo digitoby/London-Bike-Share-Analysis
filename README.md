@@ -53,4 +53,4 @@ This is the final dashboard:
 
 ![Screenshot of dashboard](https://github.com/digitoby/London-Bike-Share-Analysis/blob/main/images/london_bike_dash.png)
 
-The dashboard is interactive allowing the user to select a time period on the line chart. It automatically updates to show the total number of bike shares and a heatmap. The heatmap captures temperature vs wind speeds and the corresponding bike shares for those conditions.
+The dashboard is interactive, allowing the user to select a time period on the line chart. It automatically updates to show the total number of bike shares and a heatmap. The heatmap captures temperature vs wind speeds and the corresponding bike shares for those conditions.
